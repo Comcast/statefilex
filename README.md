@@ -8,7 +8,7 @@ database.
 
 ## Installation
 
-`statefilex` is available for installation from [Hex](). The package can be installed
+`statefilex` is available for installation from [Hex](https://hexdocs.pm/statefilex). The package can be installed
 by adding `statefilex` to your list of dependencies in `mix.exs`:
 
 ```elixir
